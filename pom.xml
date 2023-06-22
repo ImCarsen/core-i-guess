@@ -10,7 +10,7 @@
   <url>https://github.com/santos-i-guess/core-i-guess/1</url>
 
   <properties>
-    <project.build.sourceEncoding>windows-1251</project.build.sourceEncoding>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
 
   <build>
